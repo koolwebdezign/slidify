@@ -25,15 +25,16 @@ Check out one of the coolest new apps recently published to the internet.  This 
 
 ## Histogram
 
+From Wikipedia.com:
 
-```r
-x<-rnorm(100000,mean=0, sd=1)
-hist(x,breaks=150,xlim=c(-5,5),freq=FALSE)
-```
+In probability theory, the normal (or Gaussian) distribution is a very common continuous probability distribution. Normal distributions are important in statistics and are often used in the natural and social sciences to represent real-valued random variables whose distributions are not known.
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png)
+The normal distribution is useful because of the central limit theorem. In its most general form, under some conditions (which include finite variance), it states that averages of samples of observations of random variables independently drawn from independent distributions converge in distribution to the normal, that is, become normally distributed when the number of observations is sufficiently large. Physical quantities that are expected to be the sum of many independent processes (such as measurement errors) often have distributions that are nearly normal. Moreover, many results and methods (such as propagation of uncertainty and least squares parameter fitting) can be derived analytically in explicit form when the relevant variables are normally distributed.
 
 More info ... [https://en.wikipedia.org/wiki/Normal_distribution](click here).
+
+
+![](assets/img/Normal_Distribution_PDF.png)
 
 
 --- .kwd #id4 
@@ -67,4 +68,3 @@ Bloomberg School of Medicine
 
 [https://www.coursera.org/learn/data-products/home/welcome](https://www.coursera.org/learn/data-products/home/welcome)
 
-GitHub: [https://github.com/koolwebdezign](https://github.com/koolwebdezign)
